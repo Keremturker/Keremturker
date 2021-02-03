@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Kerem TÜRKER**, I am a android developer from Turkey. <br>
+✨ My name is **Kerem TÜRKER**, I am a android developer from Turkey. <br> 
 
 
 ## 📌 GitHub Stats and Top Languages
