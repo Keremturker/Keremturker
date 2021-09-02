@@ -1,14 +1,12 @@
 # Hello World! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keremturker"/> </p>
 
 ✨ My name is **Kerem TÜRKER**, I am a android developer from Turkey. <br> 
 
+## 📌 GitHub Stats
 
-## 📌 GitHub Stats and Top Languages
+![](https://github-profile-trophy.vercel.app/?username=keremturker)
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Keremturker&show_icons=true&count_private=true&hide=contribs,issues" alt="Kerem's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keremturker&layout=compact&hide=javascript,html" alt="KTop Langs" />
-</p>
 
 
 ## 💻 I'm currently working on
@@ -17,18 +15,6 @@
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <br>
-## 🧠 Know / Using
-<img src="https://github.com/github/explore/blob/master/topics/android/android.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/sqlite/sqlite.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/sql/sql.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" />
-
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-
-<br>
-
-## 💬 Ask me about
-
-<code><a href="https://developer.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 
 ## 📝 How to access my blog post
 
